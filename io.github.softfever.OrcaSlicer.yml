@@ -298,7 +298,7 @@ modules:
       # OrcaSlicer Source Archive
       - type: git
         url: https://github.com/SoftFever/OrcaSlicer
-        commit: 951fc8e98a0d5ca0ccb254315646ce7889a44836
+        commit: b23ab4434d2d4493345b6992df9692fd92d1390d
 
       # Patched TBB cmake to make build without lto flag
       - type: file
